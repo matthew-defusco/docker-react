@@ -1,18 +1,16 @@
-# Getting Started with Create React App
+# Very simple react app that was built and deployed using Docker and AWS Elastic Beanstalk
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was a follow along as part of a larger Udemy course about Docker.
 
-## Available Scripts
+## Setup needed
 
-In the project directory, you can run:
+This project would need some setup in order to run it again.
 
-### `npm start`
+### Github secrets
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Github repository secrets need to be created in order for this project to work.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+* AWS_SECRETKEY
 
 ### `npm test`
 
